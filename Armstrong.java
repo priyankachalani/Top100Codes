@@ -19,3 +19,5 @@ public class Armstrong {
         sc.close();
     }
 }
+
+
